@@ -1,5 +1,5 @@
 import { Locator, Page } from '@playwright/test';
-import { products } from '../testData/products';
+import { products } from '../test-data/products';
 
 export class AllItemsPage {
 

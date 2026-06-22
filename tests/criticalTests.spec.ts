@@ -1,6 +1,6 @@
 import { test, expect } from '../fixtures/fixture';
-import { products } from '../testData/products';
-import { checkoutCustomer } from '../testData/checkoutCustomer';
+import { products } from '../test-data/products';
+import { checkoutCustomer } from '../test-data/checkoutCustomer';
 
 const lockedOutUserError = 'Epic sadface: Sorry, this user has been locked out.';
 

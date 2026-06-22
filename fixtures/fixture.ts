@@ -2,7 +2,7 @@ import { test as base } from '@playwright/test';
 import { LoginPage } from '../pages/LoginPage';
 import { AllItemsPage } from '../pages/AllItemsPage';
 import { CheckoutPage } from '../pages/CheckoutPage';
-import { products } from '../testData/products';
+import { products } from '../test-data/products';
 
 type Fixtures = {
     loginPage: LoginPage;

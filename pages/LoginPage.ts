@@ -1,5 +1,5 @@
 import { Locator, Page } from '@playwright/test';
-import { users } from '../testData/users';
+import { users } from '../test-data/users';
 
 export class LoginPage {
 
